@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-=t(+2i@$8qla9c18okpdbij=c0(--pjty4x1_2&djv5xci*6=t
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['salute03-waves-trendy.heroku.com', 'localhost']
+ALLOWED_HOSTS = ['salute03-waves-trendy.herokuapp.com', 'localhost']
 
 
 # Application definition
