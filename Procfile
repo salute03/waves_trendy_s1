@@ -1,0 +1,1 @@
+web: gunicorn waves_trendy.wsgi:application
