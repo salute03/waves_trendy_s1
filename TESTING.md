@@ -11,7 +11,7 @@ For this project different testing approaches where pursued. Core Testing method
   * [2. Landing Page](#3-landing-page)
   * [3. Shop](#6-shop)
   * [4. Highlights](#7-highlights)
-  * [5. Cart](#8-cart)
+  * [5. Bag](#8-Bag)
   * [6. Checkout](#9-checkout)
   * [7. Sign Up:](#10-sign-up-)
   * [8. Registered Users: Useraccount](#11-registered-users--useraccount)
